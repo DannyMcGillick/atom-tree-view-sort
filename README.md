@@ -7,6 +7,9 @@
 
 Add a sorting feature for the Atom tree-view package.
 
+## Purpose of this fork
+To add sorting to the interface outside the settings view. Either an addition to the packages menu, the tree view contextual menu, or a small tool bar.
+
 ## Features
 
 ### Sort By
